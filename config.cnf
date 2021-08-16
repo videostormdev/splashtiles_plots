@@ -1,0 +1,9 @@
+[config]
+
+humid_start: 82
+humid_stop: 90
+humid_interval: 15
+fan_interval: 1000
+co2_on: 830
+co2_off: 600
+token: asdfjhkjkjhkjhkjkjkkjkj
